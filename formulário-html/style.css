@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(224,255,255);
+    font-family: sans-serif;
+    margin-top: 3%;
+    margin-left: 33%;
+    margin-right: 33%;
+    color: darkgrey;
+    align-content: center;
+    float: left;
+}
+
+.cabecalho{
+   text-align: center;
+   margin-bottom: 10px;
+   width: 500px;
+}
+
+.cabecalho h1{
+    color: #B0E0E6; 
+}
+
+.cabecalho p{
+    color: darkgrey
+}
+
+.form-container{
+    width: 90%;
+}
+
+fieldset{
+    border: none;
+}
+
+h3{
+    padding-bottom: 5px;
+    color: #B0E0E6;
+}
+
+.grupo{
+    margin-bottom: 15px;
+}
+
+input, select, textarea, button{
+    border-radius: 5px;
+    border: 1px solid darkgrey;
+    height: 20px;
+}
+
+.campo{
+    margin-bottom: 8px;
+}
+
+.dados{
+    margin-bottom: 8px;
+}
+
+.dados input{
+    width: 300px;
+    text-align: center;
+}
+
+.campo select{
+    margin-top: 5px;
+}
+
+.campo label{
+    /*margin-bottom: 0.2em;*/ 
+    display: block;
+    
+}
+
+.campo input[type="checkbox"]{
+    position: absolute;
+}   
+
+.campo input[type="radio"]{
+    position: relative;
+}
+
+.campo input[type="radio"]{
+    top: 4px;
+}
+
+.tecnologias{
+    padding-top: 8px;
+}
+
+.tecnologias label{
+    position: relative;
+    align-content: center;
+    top: -5px;
+}
+
+.botao{
+    background-color: #B0E0E6;
+    width: 100px;
+    background-color: B0E0E6;
+    color: darkgrey;
+}
