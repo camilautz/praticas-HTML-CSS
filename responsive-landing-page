@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!--HOME-->
+    <section class="home">
+        <div class="banner-title">
+            <h1>Bem Vindo à Star Web Solutions</h1>
+        </div>
+    </section>
+
+    <!--SOBRE-->
+    <section class="about">
+        <h2>Desenvolmimento de Aplicações Web</h2>
+
+        <div class="box-about">
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam optio unde dolorem magnam commodi nam doloribus ad hic corrupti totam aperiam illum consequatur nulla amet qui omnis, maxime eius itaque!</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, nesciunt magnam. Reiciendis id modi quaerat harum omnis ab alias molestias rerum neque pariatur voluptatem tempore, est perspiciatis, accusantium aspernatur sequi?</p>
+            </div>
+
+            <div class="box-about">
+                <div>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, eaque facere? Ducimus cum tempora ratione qui aspernatur impedit explicabo, nulla quibusdam? Esse quod ea facere dicta expedita fugit incidunt eaque.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis facilis repudiandae quod amet ipsam totam, sunt tenetur eligendi quibusdam quasi vitae sed harum libero architecto aliquid, obcaecati repellendus soluta voluptates.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--SERVIÇOS-->
+    <section class="services-box">
+        <div class="serv-container">
+            <div class="services">
+                <img src="images/web-development.png" alt="web-development">
+
+                <h3>Web Development</h3>
+
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur eveniet amet suscipit, labore blanditiis iure minus nihil dolores fugiat provident assumenda expedita quaerat dolorum eligendi ab enim. Suscipit, quibusdam inventore.</p>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eligendi veritatis iure rem iste accusamus dolorem eum totam ea! Voluptas cumque ullam consequatur sit quam dolores, est necessitatibus error accusantium.</p>
+            </div>
+
+            <div class="services">
+                <img src="images/mobile-apps.jpg" alt="mobile-apps">
+
+                <h3>Mobile Apps</h3>
+
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur eveniet amet suscipit, labore blanditiis iure minus nihil dolores fugiat provident assumenda expedita quaerat dolorum eligendi ab enim. Suscipit, quibusdam inventore.</p>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eligendi veritatis iure rem iste accusamus dolorem eum totam ea! Voluptas cumque ullam consequatur sit quam dolores, est necessitatibus error accusantium.</p>
+            </div>
+
+            <div class="services">
+                <img src="images/tech-mkt.jfif" alt="tech-marketing">
+
+                <h3>Tech Marketing</h3>
+
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur eveniet amet suscipit, labore blanditiis iure minus nihil dolores fugiat provident assumenda expedita quaerat dolorum eligendi ab enim. Suscipit, quibusdam inventore.</p>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eligendi veritatis iure rem iste accusamus dolorem eum totam ea! Voluptas cumque ullam consequatur sit quam dolores, est necessitatibus error accusantium.</p>
+            </div>
+        </div>
+    </section>
+
+    <!--EXTRA INFO-->
+    <section class="extra-info">
+        <div>
+            <h3>Tudo o que você precisa, na palma da sua mão</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id explicabo, quia fugiat quo placeat dicta necessitatibus sunt corporis ab autem voluptates fuga, obcaecati consectetur aliquam voluptate! Reiciendis alias harum tempora.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia assumenda earum ipsa nesciunt harum eos facilis cumque, aut reprehenderit molestiae laboriosam, possimus optio hic nihil aliquid magni libero minus ut?</p>
+        </div>
+    </section>
+
+    <!--CONTATO-->
+    <section class="contact">
+        <div class="contact-container">
+            <div class="contact-us">
+                <h3>Entre em contato com a gente</h3>
+                <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, magnam! Quisquam facilis doloremque harum aliquid quis minus, at distinctio voluptate esse alias. Velit eos aut enim illum unde assumenda sint.<br><br></p>
+                <p>contato@contato.com.br</p>
+            </div>
+
+            <div class="about-us">
+                <h3>Um pouco mais sobre a nossa empresa</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus magni perspiciatis voluptatum nesciunt quas eius quis. Consectetur necessitatibus voluptatibus accusamus, suscipit aliquam tempore odio voluptatem corrupti facilis molestias aut odit.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer">
+                <p>Todos os direitos reservados para Star Web Solutions</p>
+            </div>
+
+            <div class="footer">
+                <p>Desenvolvido por Star Web Solutions</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
