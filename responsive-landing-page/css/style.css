@@ -231,3 +231,152 @@ body{
         font-size: 12px;
     }
 }
+
+/*fazer*/
+@media (min-width: 320px) and (max-width: 568px){
+}
+
+@media (min-width: 414px) and (max-width: 736px){
+
+    .home .banner-title{
+        top: 45%;
+    }
+
+    .home .banner-title h1{
+        font-size: 2px;
+    }
+
+    .about h2{
+        font-size: 25px;
+    }
+
+    .about .box-about p{
+        font-size: 25px;
+    }
+    
+    .serv-container .services h3{
+        font-size: 30px;
+    }
+    
+    .serv-container .services p{
+        font-size: 25px;
+    }
+
+    .extra-info h3{
+        font-size: 23px;
+    }
+
+    .extra-info p{
+        font-size: 23px;
+    }
+    
+    .contact .contact-container h3{
+        font-size: 20px;    
+    }
+
+    .contact .contact-container p{
+        font-size: 20px;
+    }
+
+    .footer p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 812px){
+    
+    .home .banner-title{
+        top: 45%;
+    }
+    
+    .home .banner-title h1{
+        font-size: 28px;
+    }
+
+    .about .box-about p{
+        font-size: 23px;
+    }
+
+    .serv-container .services h3{
+        font-size: 25px;
+    }
+
+    .serv-container .services p{
+        font-size: 23px;
+    }
+
+    .extra-info p{
+        font-size: 22px;
+    }
+
+    .contact .contact-container h3{
+        font-size: 22px;
+    }
+
+    .contact .contact-container p{
+        font-size: 20px;
+    }
+
+    .footer p{
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+    .home .banner-title{
+        top:45%;
+        left: 20%;
+        right: 20%;
+    }
+
+    .home .banner-title h1{
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .about h2{
+        font-size: 35px;
+    }
+
+    .about .box-about p{
+        font-size: 30px;
+    }
+    
+    .serv-container{
+        display: block;
+        flex-direction: column;
+    }
+
+    .serv-container .services{
+        width: 100%;
+    }
+
+    .serv-container .services h3{
+        font-size: 40px;
+    }
+
+    .serv-container .services p{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .extra-info h3{
+        font-size: 35px;
+    }
+
+    .extra-info p{
+        font-size: 28px;
+    }
+
+    .contact .contact-container h3{
+        font-size: 30px;
+    }
+
+    .contact .contact-container p{
+        font-size: 30px;
+    }
+
+    .footer p{
+        font-size: 20px;
+    }
+}
